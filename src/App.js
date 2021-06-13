@@ -4,19 +4,14 @@ import React from 'react';
 
 import './App.css';
 import Navbar from './Components/Navbar';
+import React from "react";
+
+import "./App.css";
+import Navbar from "./Components/Navbar";
 
 function App() {
   return (
     <div>
-      <nav>
-        <ul>
-          <li>home</li>
-          <li>Contact</li>
-          <li>About</li>
-          <li>Project</li>
-          <li>Hospitality</li>
-        </ul>
-      </nav>
       <Navbar/>
     </div>
   );
