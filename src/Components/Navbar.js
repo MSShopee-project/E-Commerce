@@ -9,6 +9,8 @@ function Navbar() {
           <li>Contact</li>
           <li>About</li>
           <li>Project</li>
+          <li>News</li>
+          <li>Reactjs</li>
         </ul>
       </nav>
     </div>
